@@ -116,6 +116,8 @@ else:
     print(max, f'{blue}  {stop}')
 
 print()
+
+# Дополнительное задание
 f = open('C:/Users/79210/PycharmProjects/Lab_2/Animation.txt')
 for i in range(4):
     for j in range(5):
